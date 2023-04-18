@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ericksilvamendes
-- 👀 I’m interested in ...
-Entrar na area de Ti
-- 🌱 I’m currently learning ...
-Html CSS e  Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá, eu sou @ericksilvamendes
+- 👀 Estou interessado em ... 🖥️💻💾 (computadores e tecnologia)
+- 🌱 Atualmente estou aprendendo ... 🌐🎨💻 (HTML, CSS e JavaScript, Python)
+- 💞️ Procuro colaborar em ... 🤝👥💻 (projetos em equipe e colaborações em tecnologia)
+- 📫 Como entrar em contato comigo ... 📧📱💬 (https://www.linkedin.com/in/ericksmendes/)
 
 <!---
 ericksilvamendes/ericksilvamendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
